@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>pothole10698.jpg</filename>
+  <path>/home/carlos/repos/ddetf/images/pothole10698.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2560</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blurredLine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1117</xmin>
+      <ymin>712</ymin>
+      <xmax>1404</xmax>
+      <ymax>841</ymax>
+    </bndbox>
+  </object>
+</annotation>

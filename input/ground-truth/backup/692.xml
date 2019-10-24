@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>pictures</folder>
+  <filename>692.jpg</filename>
+  <path>/home/milk/Desktop/pictures/692.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2160</width>
+    <height>3840</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1006</xmin>
+      <ymin>2701</ymin>
+      <xmax>1181</xmax>
+      <ymax>2785</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,4 @@
+crack 545 324 613 403
+crack 725 334 866 492
+blurredLine 157 332 517 397
+blurredLine 332 432 494 505

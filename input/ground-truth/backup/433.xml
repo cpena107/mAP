@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>pictures</folder>
+  <filename>433.jpg</filename>
+  <path>/home/milk/Desktop/pictures/433.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2160</width>
+    <height>3840</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blurredLine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>1660</ymin>
+      <xmax>1369</xmax>
+      <ymax>1801</ymax>
+    </bndbox>
+  </object>
+</annotation>

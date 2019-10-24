@@ -1,0 +1,3 @@
+blurredLine 393 735 966 833
+blurredLine 983 768 1742 856
+blurredLine 1764 773 2535 854

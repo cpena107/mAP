@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ThisAreWrongImgOrLabelIDK</folder>
+	<filename>pothole12403.jpg</filename>
+	<path>F:\AnnotatePictures\ThisAreWrongImgOrLabelIDK\pothole12403.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manhole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>331</ymin>
+			<xmax>597</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>pothole822.jpg</filename>
+  <path>/media/carlos/Extra Space/ddetf/images/pothole822.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blurredLine</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>467</xmin>
+      <ymin>321</ymin>
+      <xmax>546</xmax>
+      <ymax>375</ymax>
+    </bndbox>
+  </object>
+</annotation>

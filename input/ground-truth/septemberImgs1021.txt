@@ -1,0 +1,2 @@
+blurredLine 671 402 830 526
+blurredLine 203 362 358 379

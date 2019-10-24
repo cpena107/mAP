@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ThisAreWrongImgOrLabelIDK</folder>
+	<filename>1157.jpg</filename>
+	<path>F:\AnnotatePictures\ThisAreWrongImgOrLabelIDK\1157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blurredLine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>742</xmin>
+			<ymin>733</ymin>
+			<xmax>1600</xmax>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+</annotation>

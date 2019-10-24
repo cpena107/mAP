@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>pothole967.jpg</filename>
+  <path>/media/carlos/Extra Space/ddetf/images/pothole967.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>alligatorCrack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>621</xmin>
+      <ymin>366</ymin>
+      <xmax>761</xmax>
+      <ymax>441</ymax>
+    </bndbox>
+  </object>
+</annotation>

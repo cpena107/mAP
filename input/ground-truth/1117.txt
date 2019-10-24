@@ -1,0 +1,2 @@
+blurredLine 264 398 364 556
+pothole 23 417 175 500

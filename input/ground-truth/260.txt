@@ -1,0 +1,3 @@
+crack 672 365 737 485
+blurredLine 745 346 872 468
+blurredLine 974 386 1217 468

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>pictures</folder>
+  <filename>506.jpg</filename>
+  <path>/home/milk/Desktop/pictures/506.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2160</width>
+    <height>3840</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>560</xmin>
+      <ymin>2860</ymin>
+      <xmax>865</xmax>
+      <ymax>3439</ymax>
+    </bndbox>
+  </object>
+</annotation>

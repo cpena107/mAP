@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>pothole599.jpg</filename>
+  <path>/media/carlos/Extra Space/ddetf/images/pothole599.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>manhole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>492</xmin>
+      <ymin>354</ymin>
+      <xmax>582</xmax>
+      <ymax>402</ymax>
+    </bndbox>
+  </object>
+</annotation>

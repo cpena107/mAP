@@ -1,0 +1,2 @@
+blurredLine 507 361 1022 409
+blurredLine 487 313 996 380

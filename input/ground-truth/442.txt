@@ -1,0 +1,2 @@
+blurredLine 1 1768 544 2224
+blurredLine 456 1580 790 1897

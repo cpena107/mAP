@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>pothole12922.jpg</filename>
+  <path>/home/carlos/repos/ddetf/images/pothole12922.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2560</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>908</xmin>
+      <ymin>810</ymin>
+      <xmax>1059</xmax>
+      <ymax>923</ymax>
+    </bndbox>
+  </object>
+</annotation>

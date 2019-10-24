@@ -1,0 +1,2 @@
+blurredLine 672 455 767 515
+blurredLine 231 466 334 534

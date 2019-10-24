@@ -1,0 +1,3 @@
+blurredLine 1493 563 2059 918
+blurredLine 208 653 820 850
+crack 718 663 1073 1052

@@ -1,0 +1,3 @@
+alligatorCrack 1516 677 1878 977
+blurredLine 648 744 1088 983
+blurredLine 173 627 707 890
